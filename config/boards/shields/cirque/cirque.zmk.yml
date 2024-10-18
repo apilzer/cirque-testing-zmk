@@ -1,0 +1,10 @@
+file_format: "1"
+id: cirque
+name: Cirque
+type: shield
+url: https://github.com/jgreel/wearable_cirque_pim447
+requires:
+  - nice_nano_v2
+  - cirque pinnacle trackpad
+features:
+  - mouse

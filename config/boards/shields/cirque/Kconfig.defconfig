@@ -1,0 +1,6 @@
+if SHIELD_CIRQUE
+
+config ZMK_KEYBOARD_NAME
+    default "Cirque"
+
+endif
